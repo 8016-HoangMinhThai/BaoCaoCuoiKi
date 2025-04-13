@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "67fb676fb48d274f26674d78"
+  },
+  "name": "Adidas",
+  "description": "Đen",
+  "slug": "/ADIDAS",
+  "image": "http://localhost:3100/uploads\\1744529263805-adidas.jpg",
+  "createdAt": {
+    "$date": "2025-04-13T07:27:43.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-13T07:27:43.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fb676fb48d274f26674dd8"
+  },
+  "name": "Nike",
+  "description": "côk",
+  "slug": "/NIKE",
+  "image": "http://localhost:3100/uploads\\1744529282023-nike.jpg",
+  "createdAt": {
+    "$date": "2025-04-13T07:28:02.040Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-13T07:28:02.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fb679ab48d274f26674de0"
+  },
+  "name": "Balenciaga",
+  "description": "Ở Nga",
+  "slug": "/BALENCIAGA",
+  "image": "http://localhost:3100/uploads\\1744529306658-balenciaga.jpg",
+  "createdAt": {
+    "$date": "2025-04-13T07:28:26.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-13T07:28:26.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fb67b3b48d274f26674de4"
+  },
+  "name": "Puma",
+  "description": "Báo đen",
+  "slug": "/PUMA",
+  "image": "http://localhost:3100/uploads\\1744529331882-puma.jpg",
+  "createdAt": {
+    "$date": "2025-04-13T07:28:51.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-13T07:28:51.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fb67d0b48d274f26674de8"
+  },
+  "name": "Supreme",
+  "description": "chịu",
+  "slug": "/SUPREME",
+  "image": "http://localhost:3100/uploads\\1744529360629-supreme.png",
+  "createdAt": {
+    "$date": "2025-04-13T07:29:20.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-13T07:29:20.643Z"
+  },
+  "__v": 0
+}]
