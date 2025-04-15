@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "67fb77aeb48d274f26675127"
+  },
+  "user": {
+    "$oid": "67fb7718b48d274f2667509b"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "67fb47240bc187de52e0487c"
+      },
+      "quantity": 1,
+      "price": 5200000,
+      "_id": {
+        "$oid": "67fb77aeb48d274f26675128"
+      }
+    }
+  ],
+  "orderTotal": 5200000,
+  "address": "Him Lam Phú An - Lock A , Thủ Đức , Tp. Hồ Chí Minh",
+  "billing": "cod",
+  "status": "final",
+  "description": "lẹ lẹ",
+  "createdAt": {
+    "$date": "2025-04-13T08:37:02.455Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-13T08:41:31.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fb8c23a276dfc700812e49"
+  },
+  "user": {
+    "$oid": "67fb8948a276dfc700812d92"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "67fb47240bc187de52e0488b"
+      },
+      "quantity": 1,
+      "price": 8300200,
+      "_id": {
+        "$oid": "67fb8c23a276dfc700812e4a"
+      }
+    },
+    {
+      "product": {
+        "$oid": "67fb47240bc187de52e04819"
+      },
+      "quantity": 1,
+      "price": 10000,
+      "_id": {
+        "$oid": "67fb8c23a276dfc700812e4b"
+      }
+    }
+  ],
+  "orderTotal": 8310200,
+  "address": "Him Lam Phú An - Lock A , Thủ Đức , Tp. Hồ Chí Minh",
+  "billing": "cod",
+  "status": "pending",
+  "description": "Nhanh lên dùm",
+  "createdAt": {
+    "$date": "2025-04-13T10:04:19.826Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-13T10:04:19.826Z"
+  },
+  "__v": 0
+}]
